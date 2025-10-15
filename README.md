@@ -33,10 +33,10 @@ It fetches dynamic product data from the [Fake Store API](https://fakestoreapi.c
 
 ```bash
 # Clone the repository
-git clone https://github.com/<your-username>/vue-ecommerce-showcase.git
+git clone https://github.com/<your-username>/ecommerce-product-showcase.git
 
 # Navigate into the project directory
-cd vue-ecommerce-showcase
+cd ecommerce-product-showcase
 
 # Install dependencies
 npm install
